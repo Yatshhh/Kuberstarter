@@ -9,7 +9,7 @@ This guide provides step-by-step instructions for installing Minikube on Ubuntu.
 * Internet access
 * Virtualization support enabled (Check with `egrep -c '(vmx|svm)' /proc/cpuinfo`, 0=disabled 1=enabled) 
 
----
+--------
 
 ## Step 1: Update System Packages
 
